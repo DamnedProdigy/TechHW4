@@ -71,8 +71,8 @@
     <Content Include="Home.aspx" />
     <Content Include="Medications.aspx" />
     <Content Include="PMStyle.css" />
-    <Content Include="Staff.aspx" />
     <Content Include="Web.config" />
+    <Content Include="Order.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AboutUs.aspx.cs">
@@ -104,12 +104,12 @@
       <DependentUpon>PetMedsMain.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Staff.aspx.cs">
-      <DependentUpon>Staff.aspx</DependentUpon>
+    <Compile Include="Order.aspx.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Staff.aspx.designer.cs">
-      <DependentUpon>Staff.aspx</DependentUpon>
+    <Compile Include="Order.aspx.designer.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

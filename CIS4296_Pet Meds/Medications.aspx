@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-md-8 mb-5">
                 <h2>Medications</h2>
-                <p>Currently, our catalog only support the pets below</p>
+                <p>Currently, our catalog only support the listed pets below</p>
                 <hr />
                 <h5>Cats</h5>
                 <h5><img class="petpic" src="images/cat.jpg" /></h5>     
@@ -33,9 +33,4 @@
             </div>                             
         </div>    
     </div>
-    <footer class="py-5 bg-dark">
-        <div class="container">
-            <p class="m-0 text-center text-white">Copyright &copy; PetMed 2022</p>
-        </div>
-    </footer>
 </asp:Content>
