@@ -32,6 +32,10 @@ body {
     width: 50%;
 }
 
+#txtFirstName, #txtLastName, #txtPhone, #txtEmail, #txtAddressOne, #txtAddressTwo, #txtCity, #txtState, #txtZip, #txtPet, #txtMeds{
+    width: 300px;
+}
+
 /*.lang {
     height: 60px;
     transition: 0.3s;
